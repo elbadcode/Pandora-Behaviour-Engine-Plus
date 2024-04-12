@@ -364,3 +364,6 @@ FodyWeavers.xsd
 
 # Debug Properties File
 /PandoraPlus/Properties
+/PandoraPlus/MVVM/Model/Patch/Patchers/Skyrim/AnimData/AnimDataManager.cs
+/PandoraPlus/Nemesis_Engine
+/PandoraPlus/Pandora_Engine
